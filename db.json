@@ -1,16 +1,28 @@
 {
-	"restaurant": [
-		{
-			"precioPlatillo": "200",
-			"nombrePlatillo": "Cheesecake",
-			"categoria": "postres",
-			"id": 1
-		},
-		{
-			"precioPlatillo": "300",
-			"nombrePlatillo": "Rib Eye 400g",
-			"categoria": "cortes",
-			"id": 2
-		}
-	]
+  "restaurant": [
+    {
+      "precioPlatillo": "200",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "postres",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 400g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "",
+      "precioPlatillo": "",
+      "categoria": "",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Chocolate caliente",
+      "precioPlatillo": "3200",
+      "categoria": "bebida",
+      "id": 4
+    }
+  ]
 }
